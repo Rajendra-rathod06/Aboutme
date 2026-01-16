@@ -1,26 +1,33 @@
-# Rajendra Rathod
+# Hi, I'm Rajendra Rathod 👋  
 
-📍 Bangalore, India  
-📧 rajprathod06@gmail.com  
-📱 +91-7760199226  
+🚀 Cyber Security Engineer | Technical Support Executive | GIS Enthusiast  
 
----
+I'm passionate about securing systems and safeguarding data in an ever-evolving threat landscape. With a strong academic foundation in **Cybersecurity (M.Tech, REVA University)** and **Electronics & Communication Engineering (B.Tech, CMR Institute of Technology)**, I thrive on applying theory to real-world challenges — from **vulnerability analysis** and **threat detection** to **secure architecture design**.  
 
-## 🎯 Objective
-To work in a challenging and creative environment, seeking a position to utilize my skills and abilities in an organization that offers professional growth while being resourceful, innovative, and flexible.
+### 🔧 Technical Skills  
+- **Frontend:** HTML5, CSS, Bootstrap, JavaScript  
+- **Backend:** Python  
+- **Database:** SQL  
+- **Cybersecurity:** VPNs, IDS/IPS (Suricata), ISO 27001 frameworks  
+- **Tools:** Kali Linux, Cisco Packet Tracer, Git/GitHub, Power BI, VS Code  
 
+### 💼 Experience  
+- **Technical Support Executive** @ United Telecom Ventures Pvt Ltd  
+  - System maintenance, troubleshooting, and collaboration with IT teams.  
+- **GIS Engineer** @ RMSI Pvt Ltd  
+  - Designed and managed GIS applications, integrated spatial data for decision-making.  
 
+### 📂 Projects  
+- **Network Intrusion Detection using Suricata** → Real-time packet inspection, ELK dashboards, custom rules.  
+- **Information Security Policy Framework (ISO 27001)** → Risk management, compliance, and governance policies.  
 
-## 🛠️ Skills & Functional Development
-- Building Management Systems (IBMS)  
-- CCTV, Fire Alarm Systems (FAS), Access Control, Fire Security  
-- Project monitoring through utilization of confirmed quantities  
-- Regional design capabilities for mechanical & electrical aspects  
+### 🎓 Certifications  
+- Python 101 for Data Science (IBM Cognitive Class)  
 
----
+### 🌱 Currently Exploring  
+- AI/ML integration for predictive intrusion detection  
+- Advanced penetration testing & vulnerability assessment  
+- Building secure, scalable web applications  
 
-## 💼 Work Experience
-
-| Company | Designation | Duration |
-|---------|-------------|----------|
-| United Telecom Ventures Pvt Ltd | Technical Support Executive Engineer | 1 Year
+📫 Reach me at **rajprathod06@gmail.com**  
+🌍 Based in **Bengaluru, India**  
