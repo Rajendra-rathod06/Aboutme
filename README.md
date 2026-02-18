@@ -22,7 +22,10 @@ I'm passionate about securing systems and safeguarding data in an ever-evolving 
 - **Information Security Policy Framework (ISO 27001)** → Risk management, compliance, and governance policies.  
 
 ### 🎓 Certifications  
-- Python 101 for Data Science (IBM Cognitive Class)  
+- Python 101 for Data Science (IBM Cognitive Class)
+- SQL and Relational Databases 101 from Cognitive Class
+- Cisco Networking Academy through the Cisco Networking Academy program
+ 
 
 ### 🌱 Currently Exploring  
 - AI/ML integration for predictive intrusion detection  
