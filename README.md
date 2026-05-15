@@ -18,8 +18,20 @@ I'm passionate about securing systems and safeguarding data in an ever-evolving 
   - Designed and managed GIS applications, integrated spatial data for decision-making.  
 
 ### 📂 Projects  
-- **Network Intrusion Detection using Suricata** → Real-time packet inspection, ELK dashboards, custom rules.  
-- **Information Security Policy Framework (ISO 27001)** → Risk management, compliance, and governance policies.  
+- **Network Performance Monitoring Tool
+- **DNS Query Monitoring Tool
+- **Airline price Analysis Dashboard
+- **Railway complent management system
+- **AI-Based Smart PDF Reader and Voice Assistant
+- **WhatsApp AI Agent for Restaurant Ordering System
+- **Generated Security Policy Suite with Regulatory Review
+
+
+### IEEE Paper publications
+- **Adaptive Hybrid Machine Learning Framework for 
+Network Intrusion Detection with Explainable AI 
+and Automated Incident Response
+
 
 ### 🎓 Certifications  
 - Python 101 for Data Science (IBM Cognitive Class)
